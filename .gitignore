@@ -1,0 +1,6 @@
+tushare_token.txt
+data/
+data_demo/
+__pycache__/
+.pytest_cache/
+*.pyc
